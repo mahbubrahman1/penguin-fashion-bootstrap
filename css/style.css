@@ -1,0 +1,40 @@
+.navbar-color {
+    background-color: #FFF9F4;
+}
+.b-font-style {
+    font-family: 'Bebas Neue', cursive;
+}
+.b-font-size {
+    font-size: 70px;
+}
+.b-custom-padding {
+    padding-left: 170px;
+}
+.nr-color {
+    color: #FA804C;
+}
+.ir2-color {
+    color: #363958;
+}
+.b-color {
+    background-color: #FFF9F4;
+}
+.b-padding {
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+.shoes-bg-color {
+    background-color: #F1F1F1;
+}
+.border-round {
+    border-radius: 15px;
+}
+.normal-text-font {
+    font-family: 'Poppins', sans-serif;
+}
+.button-round {
+    border-radius: 10px;
+}
+.button-color {
+    background-image: linear-gradient(#495afa, #3543BC);
+}
